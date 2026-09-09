@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ColasAte.95da0089\\x64\\Debug\\Includes.obj",
+            "outputs": [
+                "ColasAte.95da0089\\x64\\Debug\\Includes.h.obj.dt.module.json",
+                "ColasAte.95da0089\\x64\\Debug\\Includes.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tareaCortaPilas/tareaCortaPilas.vcxproj" Id="575c3cc8-f95e-4265-8ab1-f9c9fd51c787" />
+</Solution>

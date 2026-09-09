@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="transponer_histograma/transponer_histograma.vcxproj" Id="640e91f1-3f1b-4c05-8633-1e84b98cecc5" />
+</Solution>

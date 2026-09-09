@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="desordenar_arreglo/desordenar_arreglo.vcxproj" Id="b7b278de-702f-45ba-a6d1-ad1b8456d654" />
+</Solution>
