@@ -1,0 +1,38 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.metadata/
+
+# Java
+*.class
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# C / C++
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+build/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
