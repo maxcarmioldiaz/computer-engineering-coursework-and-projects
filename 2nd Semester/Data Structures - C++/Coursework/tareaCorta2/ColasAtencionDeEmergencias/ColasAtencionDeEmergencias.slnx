@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ColasAtencionDeEmergencias.vcxproj" />
+  <Project Path="ColasAtencionDeEmergencias.vcxproj" Id="95da0089-46e0-48d4-bb2c-508be58367de" />
 </Solution>

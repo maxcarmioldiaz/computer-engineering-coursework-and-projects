@@ -69,20 +69,18 @@ public:
 		return size;
 	}
 	void print() {
-		if (size == 0)
-			throw std::runtime_error("Queue is empty. There's nothing to print.");
-
 		std::cout << "[ ";
 		for (Node<E>* temp = front->next; temp != nullptr; temp = temp->next) {
 			std::cout << temp->element;
 			if (temp->next != nullptr)
 				std::cout << ", ";
 		}
+
 		//while (front->next != nullptr) {
 			//temp = front->next->next;
 		//}
 
-		std::cout << "]" << '\n';
+		std::cout << " ]";
 	}
 };
 

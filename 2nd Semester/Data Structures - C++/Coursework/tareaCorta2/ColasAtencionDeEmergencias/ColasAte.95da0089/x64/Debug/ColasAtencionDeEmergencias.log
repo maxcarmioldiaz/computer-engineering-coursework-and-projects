@@ -1,0 +1,6 @@
+﻿  ColasAtencionDeEmergencias.cpp
+C:\Users\Lenovo IdeaPad 5\OneDrive - Estudiantes ITCR\2do semestre\E.D\Tareas\tareaCorta2\ColasAtencionDeEmergencias\Patient.h(63,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'ColasAtencionDeEmergencias.cpp')
+  
+C:\Users\Lenovo IdeaPad 5\OneDrive - Estudiantes ITCR\2do semestre\E.D\Tareas\tareaCorta2\ColasAtencionDeEmergencias\ColasAtencionDeEmergencias.cpp(120,31): warning C4101: 'e': unreferenced local variable
+  ColasAtencionDeEmergencias.vcxproj -> C:\Users\Lenovo IdeaPad 5\OneDrive - Estudiantes ITCR\2do semestre\E.D\Tareas\tareaCorta2\ColasAtencionDeEmergencias\x64\Debug\ColasAtencionDeEmergencias.exe

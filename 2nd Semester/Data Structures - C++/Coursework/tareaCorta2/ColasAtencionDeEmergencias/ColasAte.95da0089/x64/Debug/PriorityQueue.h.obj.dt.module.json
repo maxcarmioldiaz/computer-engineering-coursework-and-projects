@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ColasAte.95da0089\\x64\\Debug\\PriorityQueue.obj",
+            "outputs": [
+                "ColasAte.95da0089\\x64\\Debug\\PriorityQueue.h.obj.dt.module.json",
+                "ColasAte.95da0089\\x64\\Debug\\PriorityQueue.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

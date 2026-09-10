@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lenovo ideapad 5\\onedrive - estudiantes itcr\\2do semestre\\e.d\\tareas\\tareacorta2\\colasatenciondeemergencias\\priorityqueue.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\lenovo ideapad 5\\onedrive - estudiantes itcr\\2do semestre\\e.d\\tareas\\tareacorta2\\colasatenciondeemergencias\\queue.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
