@@ -1,38 +1,89 @@
+# =========================================================
+# Visual Studio / C++
+# =========================================================
+
+# Visual Studio local settings/cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual C++ database/cache
+*.VC.db
+*.VC.opendb
+*.opendb
+*.ipch
+ipch/
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+Win32/
+
+# C/C++ compiled/intermediate files
+*.obj
+*.o
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.res
+
+# Build logs and temporary files
+*.tlog
+*.lastbuildstate
+*.log
+
+# Compiled binaries
+*.exe
+*.dll
+
+# CMake
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# =========================================================
 # IntelliJ IDEA
+# =========================================================
+
 .idea/
 *.iml
 out/
 
+# =========================================================
 # Eclipse
+# =========================================================
+
 .metadata/
 
+# =========================================================
 # Java
+# =========================================================
+
 *.class
 target/
 
+# =========================================================
 # Python
+# =========================================================
+
 __pycache__/
 *.py[cod]
 .venv/
 venv/
 env/
 
-# C / C++
-*.o
-*.obj
-*.exe
-*.out
-*.dll
-*.so
-*.dylib
-build/
-cmake-build-*/
+# =========================================================
+# Operating System
+# =========================================================
 
-# Visual Studio
-.vs/
-*.user
-*.suo
-
-# OS
 .DS_Store
 Thumbs.db
