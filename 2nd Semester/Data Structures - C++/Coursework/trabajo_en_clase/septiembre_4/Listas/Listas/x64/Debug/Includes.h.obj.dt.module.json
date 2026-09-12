@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Listas\\x64\\Debug\\Includes.obj",
+            "outputs": [
+                "Listas\\x64\\Debug\\Includes.h.obj.dt.module.json",
+                "Listas\\x64\\Debug\\Includes.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
