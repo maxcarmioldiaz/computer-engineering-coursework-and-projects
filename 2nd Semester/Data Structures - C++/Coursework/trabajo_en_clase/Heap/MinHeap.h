@@ -3,6 +3,7 @@
 #include <stdexcept>
 #include <iostream>
 #include "Includes.h"
+#include "ArrayList.h"
 
 template<typename E>
 class MinHeap {
@@ -132,11 +133,30 @@ public:
 		std::cout << " ]" << '\n';
 	}
 
-	void heapify(E* ar, int n) {}
+	void heapify(E* ar, int n) {
+		if (n > max)
+			throw std::runtime_error("The size of the array must be lower than the max size of the heap");
+		size = n;
+		elements = ar;
+		for (int i = size; i > 0; i--) {
+			siftDown(i - 1);
+		}
+	}
 
-	void merge(MinHeap<E>* other) {}
+	void merge(MinHeap<E>* other) {
+		E* tempElements = other->elements;
+		for (int i = 0; i < other->getSize(); i++) {
+			this->insert(tempElements[i]);
+		}
+	}
 
-	List<E>* removeTop(int n) {}
+	List<E>* removeTop(int n) {
+		List<E>* result = new ArrayList<E>(n);
+		for (int i = 0; i < n; i++) {
+			result->append(this->removeFirst());
+		}
+		return result;
+	}
 
 };
 

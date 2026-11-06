@@ -143,8 +143,10 @@
     <ClCompile Include="Heap.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ArrayList.h" />
     <ClInclude Include="HeapPriorityQueue.h" />
     <ClInclude Include="Includes.h" />
+    <ClInclude Include="List.h" />
     <ClInclude Include="MinHeap.h" />
     <ClInclude Include="Pair.h" />
     <ClInclude Include="PriorityQueue.h" />
